@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZJGTLjLcmi6i2OrMjH2aqU/hZWu6hneWup2itYiztWWSfbhVac0v+62bM7xyQpISpwzmBAlm4MkQj+EuI+IWGw==",
+  "success": true,
+  "projectFilePath": "/Library/WebServer/Project/loanMarket/mycrm-api/WebApplication1/WebApplication1/WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "/Users/macbookpro/.nuget/packages/microsoft.visualstudio.threading.analyzers/17.0.64/microsoft.visualstudio.threading.analyzers.17.0.64.nupkg.sha512"
+  ],
+  "logs": []
+}
